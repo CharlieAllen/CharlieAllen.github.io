@@ -2,14 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
+url: http://charlieallen.github.io/
+title: Charlie Allen
+email: charlieallen81@gmail.com
+author: Charlie Allen
+description: > # "London based Web Developer"
 copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
@@ -27,8 +24,8 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/spangle_cat
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/CharlieAllen
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/in/charlieallen4
