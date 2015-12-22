@@ -21,6 +21,14 @@ h6 {
     font-weight: 700;
 }
 
+ul {
+    list-style: none;
+}
+
+.about_me {
+    font-size: 18px;
+}
+
 .lead {
     font-size: 18px;
     font-weight: 400;

@@ -13,6 +13,9 @@ html {
 body {
   margin: 0;
 }
+ul {
+  list-style: none;
+}
 article,
 aside,
 details,
