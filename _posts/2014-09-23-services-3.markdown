@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+img: proj4.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: TED Chat
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+<strong>Project 4</strong> - an app based on TED talks.  The Youtube API was used to pull in videos from the TED channel, which users can search and view. If a user wishes to save a video, they can create an account; account authentication uses BCrypt and JWT.  The site is built on a MEAN stack.<br>[http://charlieallen.github.io/wdi_final_front_end/#/](TED Chat)

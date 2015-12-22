@@ -34,6 +34,9 @@ video {
   display: inline-block;
   vertical-align: baseline;
 }
+.about_me {
+  font-size: 15px;
+}
 audio:not([controls]) {
   display: none;
   height: 0;
