@@ -1,8 +1,8 @@
 ---
 layout: default
-img: proj4.png
+img: proj3.png
 category: Services
-title: TED Chat
+title: Pet Sitters
 description: |
 ---
-<strong>Project 4</strong> - an app based on TED talks.  The Youtube API was used to pull in videos from the TED channel, which users can search and view. If a user wishes to save a video, they can create an account; account authentication uses BCrypt and JWT.  The site is built on a MEAN stack.<br>[http://charlieallen.github.io/wdi_final_front_end/#/](TED Chat)
+<strong>Project 3</strong> - A site to connect homeowners with pets and those who would like to travel and are offering their services as a house and pet sitter.  The site is built using JS, JQuery, ExpressJS, NodeJS and AJAX.  Authentication of accounts uses Passport and JWT.  Nodemailer was used to enable a user to contact another user privately.  Semantic UI is the styling framework in use. <br>[https://github.com/amogower/wdi16-group-project](Pet Sitters)
