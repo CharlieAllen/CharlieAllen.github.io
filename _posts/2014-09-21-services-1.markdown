@@ -5,5 +5,5 @@ category: Services
 title: Guess The Word<br>
 description: |
 ---
-  <strong>Project 1</strong> - a Javascript game based on Hangman.  The first player enters a word and player two is given 1 fewer lives than the number of letters in the word to try and guess correctly.<br>
+  <strong>Project 1</strong> - a JavaScript game based on Hangman.  The first player enters a word and player two is given 1 fewer lives than the number of letters in the word to try and guess correctly.<br>
   [http://guess-the-word.herokuapp.com/](Guess The Word)
