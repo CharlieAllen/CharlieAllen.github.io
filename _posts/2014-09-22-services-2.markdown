@@ -5,4 +5,4 @@ category: Services
 title: Street Art Snaps
 description: |
 ---
-<strong>Project 2</strong> - A photo sharing site, where users can create/update/delete an account and then upload photos of street art for various pre-seeded locations around the world.  The site is built using Ruby on Rails, with account and session management using Devise, file uploading via the Ruby gem 'Carrierwave', voting on photos using the Ruby gem 'Acts As Votable' and comments on photos via the Ruby gem 'Acts As Commentable'.<br>[http://street-art-snaps.herokuapp.com/](Street Art Snaps)
+<strong>[Project 2](http://street-art-snaps.herokuapp.com/)</strong> - A photo sharing site, where users can create/update/delete an account and then upload photos of street art for various pre-seeded locations around the world.  The site is built using Ruby on Rails, with account and session management using Devise, file uploading via the Ruby gem 'Carrierwave', voting on photos using the Ruby gem 'Acts As Votable' and comments on photos via the Ruby gem 'Acts As Commentable'.<br>

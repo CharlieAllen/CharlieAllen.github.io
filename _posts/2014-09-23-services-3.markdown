@@ -5,4 +5,4 @@ category: Services
 title: Pet Sitters
 description: |
 ---
-<strong>Project 3</strong> - A site to connect homeowners with pets and those who would like to travel and are offering their services as a house and pet sitter.  The site is built using JavaScript, jQuery, ExpressJS, NodeJS and AJAX.  Authentication of accounts uses Passport and JWT.  Nodemailer was used to enable a user to contact another user privately.  Semantic UI is the styling framework in use. <br>[https://github.com/amogower/wdi16-group-project](Pet Sitters)
+<strong>[Project 3](https://github.com/amogower/wdi16-group-project)</strong> - A site to connect homeowners with pets and those who would like to travel and are offering their services as a house and pet sitter.  The site is built using JavaScript, jQuery, ExpressJS, NodeJS and AJAX.  Authentication of accounts uses Passport and JWT.  Nodemailer was used to enable a user to contact another user privately.  Semantic UI is the styling framework in use. <br>

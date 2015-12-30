@@ -5,4 +5,4 @@ category: Services
 title: TED Chat
 description: |
 ---
-<strong>Project 4</strong> - an app based on TED talks.  The Youtube API was used to pull in videos from the TED channel, which users can search and view. If a user wishes to save a video, they can create an account; account authentication uses BCrypt and JWT.  The site is built on a MEAN stack.<br>[http://charlieallen.github.io/wdi_final_front_end/#/](TED Chat)
+<strong>[Project 4](http://charlieallen.github.io/wdi_final_front_end/#/)</strong> - an app based on TED talks.  The Youtube API was used to pull in videos from the TED channel, which users can search and view. If a user wishes to save a video, they can create an account; account authentication uses BCrypt and JWT.  The site is built on a MEAN stack.<br>
